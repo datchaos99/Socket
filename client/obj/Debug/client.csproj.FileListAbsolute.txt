@@ -1,0 +1,6 @@
+F:\Code\C#\WebSocket\client\bin\Debug\client.exe.config
+F:\Code\C#\WebSocket\client\bin\Debug\client.exe
+F:\Code\C#\WebSocket\client\bin\Debug\client.pdb
+F:\Code\C#\WebSocket\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+F:\Code\C#\WebSocket\client\obj\Debug\client.exe
+F:\Code\C#\WebSocket\client\obj\Debug\client.pdb
